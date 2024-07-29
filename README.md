@@ -1,16 +1,16 @@
-## Hi there 👋
+## BOAS VINDAS AO MEU PERFIL🫀🌸
 
-<!--
-**Rayssagiseli/Rayssagiseli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Rayssa giseli
 
-Here are some ideas to get you started:
+- Estou estudando na Alura(https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- 
+### Você pode entrar em contato comigo 🥰
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+rayssa.freitas.silva@escola.pr.gov.br
+
+@rayssagiseli
+
+![]()
+https://media1.tenor.com/m/GJOQrKXGwIUAAAAd/staring-at-you-eloise-bridgerton.gif

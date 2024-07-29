@@ -12,5 +12,4 @@ rayssa.freitas.silva@escola.pr.gov.br
 
 @rayssagiseli
 
-![]()
-https://media1.tenor.com/m/GJOQrKXGwIUAAAAd/staring-at-you-eloise-bridgerton.gif
+![]()https://media1.tenor.com/m/GJOQrKXGwIUAAAAd/staring-at-you-eloise-bridgerton.gif
